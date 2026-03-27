@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hello there 
+
+(General Kenobi)
+
+My name is Andriy and this is my Github repository. I am using it to document my journey into cybersecurity and homelabbing
 
 <!--
 **yirdna101/yirdna101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
